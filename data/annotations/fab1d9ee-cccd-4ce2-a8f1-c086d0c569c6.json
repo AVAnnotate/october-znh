@@ -1,0 +1,199 @@
+{
+  "event_id": "d08584a4-def6-4d2f-b9f3-6ffcb9d593b6",
+  "source_id": "8cdcadec-ba95-435b-b079-ca12fb527e44",
+  "set": "Instruments",
+  "annotations": [
+    {
+      "start_time": 645.886259,
+      "end_time": 685.360181,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "a81d39b8-2312-4cd0-94bf-ecde235328df"
+    },
+    {
+      "start_time": 696.784399,
+      "end_time": 770.809615,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "92644e88-3438-4f02-aab9-1796703f02b2"
+    },
+    {
+      "start_time": 781.583673,
+      "end_time": 789.478458,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "43a400de-076b-4ded-af03-433374a84549"
+    },
+    {
+      "start_time": 801.181315,
+      "end_time": 824.772789,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "74f876bc-217d-4aab-aa5b-f8a37212cda8"
+    },
+    {
+      "start_time": 836.940045,
+      "end_time": 871.769977,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "482461db-8530-40e2-a770-7fd774cfa35d"
+    },
+    {
+      "start_time": 884.587392,
+      "end_time": 929.912744,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "7d6298f0-25ec-47ed-8782-2b4792c37661"
+    },
+    {
+      "start_time": 1412.702041,
+      "end_time": 1449.389569,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "9afd3c51-4956-4cd6-806d-b6152e21a426"
+    },
+    {
+      "start_time": 1453.104762,
+      "end_time": 1472.145125,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "15bb5f2a-5544-4735-8e8f-8bac291c8994"
+    },
+    {
+      "start_time": 1476.046077,
+      "end_time": 1484.77678,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "f43ce3a5-f320-4a39-bff6-8573f1f9a768"
+    },
+    {
+      "start_time": 1488.863492,
+      "end_time": 1508.739773,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "7f220c4a-a2d0-4efb-9084-a78844b39db2"
+    },
+    {
+      "start_time": 1519.885351,
+      "end_time": 1604.405986,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "26faa725-b779-40f8-85a6-9bbc3dcd0226"
+    },
+    {
+      "start_time": 1607.93542,
+      "end_time": 1666.449705,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        }
+      ],
+      "uuid": "e4044b12-bd81-4867-a1c8-e7a818622a89"
+    }
+  ]
+}
